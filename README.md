@@ -35,29 +35,6 @@ Building intelligent systems, data-driven applications, and scalable solutions.
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-### 🤖 AI Resume Analyzer
-- ATS-style resume scoring system
-- Skill extraction using NLP
-- Resume-job matching engine
-
-### 📊 Business Analytics Dashboard
-- Interactive Power BI dashboards
-- SQL + Python data analysis
-- Business insights & KPIs
-
-### 🧠 RAG PDF Chatbot
-- Chat with PDF documents using AI
-- Semantic search with embeddings
-- LangChain + Vector Database workflow
-
-### 🏦 AI Bank Statement Parser
-- Extract transaction data from PDFs
-- Expense categorization
-- Automated financial insights
-
 ---
 
 ## 📈 GitHub Stats
